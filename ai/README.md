@@ -96,8 +96,5 @@ You can customize the following environment variables:
 
 ## License
 
-[Add your license information here]
-
-## Contributing
-
+GNU GENERAL PUBLIC LICENSE v3
 [Add contribution guidelines here]
